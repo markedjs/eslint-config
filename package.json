@@ -1,6 +1,6 @@
 {
   "name": "@markedjs/eslint-config",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "eslint config used by marked and markedjs extensions",
   "main": "eslint.config.js",
   "type": "module",
