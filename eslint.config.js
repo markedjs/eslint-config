@@ -150,7 +150,7 @@ export default [
       '@stylistic/computed-property-spacing': ['error', 'never', { enforceForClassMembers: true }],
       '@stylistic/dot-location': ['error', 'property'],
       '@stylistic/eol-last': 'error',
-      '@stylistic/func-call-spacing': ['error', 'never'],
+      '@stylistic/function-call-spacing': ['error', 'never'],
       '@stylistic/generator-star-spacing': ['error', { before: true, after: true }],
       '@stylistic/indent': ['error', 2, {
         SwitchCase: 1,
@@ -185,7 +185,7 @@ export default [
       '@stylistic/no-whitespace-before-property': 'error',
       '@stylistic/object-curly-newline': ['error', { multiline: true, consistent: true }],
       '@stylistic/object-curly-spacing': ['error', 'always'],
-      '@stylistic/object-property-newline': ['error', { allowMultiplePropertiesPerLine: true }],
+      '@stylistic/object-property-newline': ['error', { allowAllPropertiesOnSameLine: true }],
       '@stylistic/operator-linebreak': ['error', 'before', {
         overrides: {
           '=': 'after',
