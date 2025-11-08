@@ -193,7 +193,7 @@ export default [
       }],
       '@stylistic/padded-blocks': ['error', { blocks: 'never', switches: 'never', classes: 'never' }],
       '@stylistic/quote-props': ['error', 'as-needed'],
-      '@stylistic/quotes': ['error', 'single', { avoidEscape: true, allowTemplateLiterals: false }],
+      '@stylistic/quotes': ['error', 'single', { avoidEscape: true, allowTemplateLiterals: 'never' }],
       '@stylistic/rest-spread-spacing': ['error', 'never'],
       '@stylistic/semi': ['error', 'always'],
       '@stylistic/semi-spacing': ['error', { before: false, after: true }],
