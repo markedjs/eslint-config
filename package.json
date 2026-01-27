@@ -11,6 +11,10 @@
   "files": [
     "eslint.config.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markedjs/eslint-config.git"
+  },
   "author": "Tony Brix <Tony@Brix.ninja> (https://Tony.Brix.ninja)",
   "license": "MIT",
   "peerDependencies": {
