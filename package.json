@@ -24,7 +24,7 @@
     "@stylistic/eslint-plugin": "^5.10.0",
     "eslint-plugin-n": "^17.24.0",
     "globals": "^17.6.0",
-    "typescript-eslint": "^8.59.2"
+    "typescript-eslint": "^8.59.3"
   },
   "devDependencies": {
     "@semantic-release/commit-analyzer": "^13.0.1",
