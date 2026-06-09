@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@stylistic/eslint-plugin": "^5.10.0",
-    "eslint-plugin-n": "^18.0.1",
+    "eslint-plugin-n": "^18.1.0",
     "globals": "^17.6.0",
     "typescript-eslint": "^8.60.1"
   },
